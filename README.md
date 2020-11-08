@@ -1,8 +1,6 @@
 # A2-Further-OOP
 First Year Module
 
-Second Year Module
-
 In this repository there is;
 
 • An assignment brief which may be a word doc, pdf.
